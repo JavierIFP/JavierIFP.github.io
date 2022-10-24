@@ -34,7 +34,8 @@ Catalán, Castellano, Inglés, Francés.
 - ESO: Teresianas de Ganduixer.
 - AICAT: Insitut Rocafort.
 - MOS: Microsoft Office Specialist.
-- Legislación y economía inmobiliaria.
+- Legislación y economía inmobiliaria: Cursando actualmente.
+- SMX: Cursando actualmente
 
 
 ## Experiencia laboral
@@ -42,4 +43,7 @@ Catalán, Castellano, Inglés, Francés.
 - MRW: Paquetería.
 - Hosmark: Empresa de eventos.
 - Albireo Marketing: Jefe de equipo.
-- 
+- Infernus: Director Comercial.
+- Elite ByEA: Emprendedor. 
+- Gamium: Emprendedor.
+
