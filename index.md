@@ -35,15 +35,15 @@ Catalán, Castellano, Inglés, Francés.
 - AICAT: Insitut Rocafort.
 - MOS: Microsoft Office Specialist.
 - Legislación y economía inmobiliaria: Cursando actualmente.
-- SMX: Cursando actualmente
+- SMX: Cursando actualmente.
 
 
 ## Experiencia laboral
 
-1. MRW - Paquetería.
-2. Hosmark - Empresa de eventos.
-3. Albireo Marketing - Jefe de equipo.
-4. Infernus - Director Comercial.
-5. Elite ByEA - Emprendedor. 
-6. Gamium - Emprendedor.
+- [x] MRW - Paquetería.
+- [x] Hosmark - Empresa de eventos.
+- [x] Albireo Marketing - Jefe de equipo.
+- [x] Infernus - Director Comercial.
+- [x] Elite ByEA - Emprendedor. 
+- [x] Gamium - Emprendedor.
 
