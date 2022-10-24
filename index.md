@@ -40,10 +40,10 @@ Catalán, Castellano, Inglés, Francés.
 
 ## Experiencia laboral
 
-- MRW: Paquetería.
-- Hosmark: Empresa de eventos.
-- Albireo Marketing: Jefe de equipo.
-- Infernus: Director Comercial.
-- Elite ByEA: Emprendedor. 
-- Gamium: Emprendedor.
+1. MRW - Paquetería.
+2. Hosmark - Empresa de eventos.
+3. Albireo Marketing - Jefe de equipo.
+4. Infernus - Director Comercial.
+5. Elite ByEA - Emprendedor. 
+6. Gamium - Emprendedor.
 
