@@ -29,7 +29,7 @@ Catalán, Castellano, Inglés, Francés.
 
 ```
 
-### Formación
+## Formación
 
 - ESO: Teresianas de Ganduixer.
 - AICAT: Insitut Rocafort.
@@ -37,4 +37,9 @@ Catalán, Castellano, Inglés, Francés.
 - Legislación y economía inmobiliaria.
 
 
+## Experiencia laboral
 
+- MRW: Paquetería.
+- Hosmark: Empresa de eventos.
+- Albireo Marketing: Jefe de equipo.
+- 
