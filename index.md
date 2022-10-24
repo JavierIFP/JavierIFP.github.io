@@ -46,4 +46,4 @@ Catalán, Castellano, Inglés, Francés.
 - [x] Infernus - Director Comercial.
 - [x] Elite ByEA - Emprendedor. 
 - [x] Gamium - Emprendedor.
-
+- [ ] Prácticas SMX.
