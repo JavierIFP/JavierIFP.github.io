@@ -14,5 +14,27 @@ Facilidad en uso de aplicaciones ofimáticas y organización de trabajo y autono
 
 ## Datos Personales
 
-DNI: 83748374C
+- 13/05/1998
+- DNI: 83748374C
+- Teléfono: 618611044
+- Mail: javidarquerifp@gmail.com
+- Permiso de conducir A2, B.
+- Disponibilidad de vehículo para desplazamiento.
+
+
+## Idiomas
+```
+
+Catalán, Castellano, Inglés, Francés.
+
+```
+
+### Formación
+
+- ESO: Teresianas de Ganduixer.
+- AICAT: Insitut Rocafort.
+- MOS: Microsoft Office Specialist.
+- Legislación y economía inmobiliaria.
+
+
 
